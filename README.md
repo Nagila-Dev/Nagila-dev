@@ -22,18 +22,17 @@
     <img align="center" alt="Nagila-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </div><br/>
 
-  ## Tecnologias que trabalho
+  ## 🛠 Tecnologias que trabalho
   <div style="display: inline_block"><br/> 
     <img align= "center" alt="html5" src="https://user-images.githubusercontent.com/85763169/160290903-267b7488-92d5-4807-aee4-ea5df30d5876.png" width="95px;" height="40px;">
     <img align= "center" alt="html5" src="https://user-images.githubusercontent.com/85763169/160291466-cb3ac2ff-cf86-42e6-8ad3-0000fe201fb6.png" width="120px;" height="40px;">
     <img align="center" alt="Nagila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg"> 
   </div><br/><br/>
 
-  ### Tecnologias que estou aprendendo
+  ### 📚 Tecnologias que estou aprendendo
   <div style="display: inline_block"><br/> 
     <img align= "center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align= "center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align= "center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </div><br/>
-😊
