@@ -1,20 +1,12 @@
 ## Olá, eu sou a Nágila Sabrine! 😊
 
-- 🔭 Apaixonada por tecnologia
-- 🌱 Estudante de Engenharia de Software
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrine_ns/)
 [![Telegran](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/)
 
-<div align="center">
-  <a href="https://github.com/Nagila-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nagila-Dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img whith="100em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagila-Dev&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagila-dev&show_icons=true&theme=merko)
 
 ## Tecnologias que trabalho
 <div style="display: inline_block"><br/> 
@@ -22,7 +14,6 @@
   <img align= "center" alt="html5" src="https://user-images.githubusercontent.com/85763169/160291466-cb3ac2ff-cf86-42e6-8ad3-0000fe201fb6.png" width="120px;" height="40px;">
   <img align="center" alt="Nagila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg"> 
 </div><br/><br/>
-
 
 ### Tecnologias que estou aprendendo
 <div style="display: inline_block"><br/> 
@@ -32,7 +23,8 @@
  <img align= "center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
 
-### Outras..
+### Outras - Tecnologias
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nagila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Nagila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -45,6 +37,7 @@
   <img align="center" alt="Nagila-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="David-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
+
 
 
 
