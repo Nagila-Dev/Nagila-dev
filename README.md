@@ -1,5 +1,8 @@
 ## Olá, eu sou a Nágila Sabrine! 😊
 
+- 🔭 Apaixonada por tecnologia
+- 🌱 Estudante de Engenharia de Software
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrine_ns/)
 [![Telegran](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
@@ -7,7 +10,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagila-dev&show_icons=true&theme=merko) 
-<img whith="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagila-dev&layout=compact&langs_count=7&theme=cobalt"/>
 
 ## Tecnologias que trabalho
 <div style="display: inline_block"><br/> 
