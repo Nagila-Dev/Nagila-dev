@@ -9,9 +9,9 @@
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/)
 
 <div align="center">
-  <a href="https://github.com/davidluiz91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidluiz91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/Nagila_Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nagila_Dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagila_Dev&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 
