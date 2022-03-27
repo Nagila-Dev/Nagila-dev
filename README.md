@@ -6,7 +6,8 @@
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagila-dev&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagila-dev&show_icons=true&theme=merko) 
+<img whith="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagila-dev&layout=compact&langs_count=7&theme=cobalt"/>
 
 ## Tecnologias que trabalho
 <div style="display: inline_block"><br/> 
