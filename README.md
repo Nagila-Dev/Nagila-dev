@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/)
 
-<div align="center">
+<div>
   <a href="https://github.com/Nagila-Dev">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nagila-Dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagila-Dev&layout=compact&langs_count=7&theme=cobalt"/>
