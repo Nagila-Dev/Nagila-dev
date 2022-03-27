@@ -8,13 +8,21 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/)
 
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagila-dev&show_icons=true&theme=merko) 
+<div align="center">
+  <a href="https://github.com/davidluiz91">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nagila-Dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagila-Dev&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+
 
 ## Tecnologias que trabalho
 <div style="display: inline_block"><br/> 
   <img align= "center" alt="html5" src="https://user-images.githubusercontent.com/85763169/160290903-267b7488-92d5-4807-aee4-ea5df30d5876.png" width="95px;" height="40px;">
   <img align= "center" alt="html5" src="https://user-images.githubusercontent.com/85763169/160291466-cb3ac2ff-cf86-42e6-8ad3-0000fe201fb6.png" width="120px;" height="40px;">
+  <img align="center" alt="Nagila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg"> 
 </div><br/><br/>
 
 
@@ -26,15 +34,19 @@
  <img align= "center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
 
-### Outras - Tecnologias
-<div style="display: inline_block"><br/>
- <img align= "center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
- <img align= "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
- <img align= "center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
- <img align= "center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img align= "center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
- <div>
+### Outras..
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nagila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Nagila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nagila-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Nagila-Postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Nagila-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nagila-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Nagila-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Nagila-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Nagila-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="David-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</div>
 
 
 
