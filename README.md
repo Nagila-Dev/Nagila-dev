@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/Nagila-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nagila-Dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img whith="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagila-Dev&layout=compact&langs_count=7&theme=cobalt"/>
+  <img whith="100em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagila-Dev&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 
