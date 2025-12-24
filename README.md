@@ -21,6 +21,10 @@
 
 ## Programming & Scripting
 
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -31,6 +35,15 @@
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
+
+</td>
+<td width="35%" align="center">
+
+<img src="./assets/pinguin.png" width="260"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
