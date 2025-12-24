@@ -7,8 +7,6 @@
   <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
-
 ## 🐧 Operational Systems
 
 <p>
@@ -16,8 +14,6 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </p>
-
----
 
 ## Programming & Scripting
 
@@ -45,8 +41,6 @@
 </tr>
 </table>
 
----
-
 ## 🗄️ Databases
 
 <p>
@@ -56,8 +50,6 @@
 <img src="https://img.shields.io/badge/Firebird-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
 </p>
-
----
 
 ## 🌐 Network & Infrastructure
 
@@ -73,8 +65,6 @@
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
----
-
 ## 🖥️ Workstation Tools
 
 <p>
@@ -88,6 +78,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-<h3 align="center">⚡ “Automatizar é libertar tempo para pensar.” ⚡</h3>
