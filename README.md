@@ -1,5 +1,4 @@
 <h1 align="center">Olá, eu sou a Nágila Sabrine 👋</h1>
-<h3 align="center">DevOps • Infraestrutura • Cloud • Automação • SRE</h3>
 
 <p align="center">
   <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -7,14 +6,6 @@
   <a href="https://t.me/SEU_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
----
-
-## 🧠 Sobre mim
-
-💻 Profissional de tecnologia com foco em **DevOps, Infraestrutura, Redes e Automação**  
-🚀 Experiência com servidores Linux, pipelines CI/CD, automação, backups, monitoramento, redes e ambientes produtivos  
-🛠️ Entusiasta de automação, segurança, observabilidade e alta disponibilidade
 
 ---
 
@@ -28,7 +19,7 @@
 
 ---
 
-## 🧩 Programming & Scripting
+## Programming & Scripting
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -80,12 +71,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </p>
