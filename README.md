@@ -39,8 +39,8 @@
 </p>
 </td>
 
-<td width="500" align="center">
-<img src="./assets/pinguim.png" width="450">
+<td width="400" align="center">
+<img src="./assets/pinguim.png" width="350">
 
 </td>
   </tr>
