@@ -3,7 +3,7 @@
 <img src="./assets/pinguim.png" width="400" align="right">
 
 <a href="mailto:sabrinenagila05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="www.linkedin.com/in/nágila-sabrine-bb2177180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/sousa_ns67/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 🐧 **Operational Systems**
