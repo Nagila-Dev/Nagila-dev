@@ -27,7 +27,7 @@
 
 <br clear="right">
 
-🗄️ **Databases**
+**Databases**
 <p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-EA4324?style=for-the-badge&logo=mysql&logoColor=white">
