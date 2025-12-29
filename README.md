@@ -16,7 +16,6 @@
 
 <div style="display:flex; gap:24px; align-items:flex-start;">
 
-  <!-- BADGES -->
   <div style="flex:1;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -28,9 +27,8 @@
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   </div>
 
-  <!-- PINGUIM -->
   <div style="min-width:260px; text-align:center;">
-    <img src="./assets/pinguin.png" width="260">
+    <img src="./assets/pinguim.png" width="260">
   </div>
 
 </div>
