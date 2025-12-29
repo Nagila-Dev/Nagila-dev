@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6129D0&text=Olá,%20eu%20sou%20a%20Nágila%20Sabrine!&reversal=false&fontSize=20&fontAlign=19&fontColor=FFFFFF&fontAlignY=26" >
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6129D0&text=Olá,%20eu%20sou%20a%20Nágila%20Sabrine!&reversal=false&fontSize=20&fontAlign=19&fontColor=FFFFFF&fontAlignY=26" >
 
 <img src="./assets/pinguim.png" width="400" align="right">
 
