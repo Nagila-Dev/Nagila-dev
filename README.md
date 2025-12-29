@@ -2,15 +2,15 @@
 
 <img src="./assets/pinguim.png" width="400" align="right">
 
-<a href="mailto:sabrinenagila05@gmail.com"><img src="https://img.shields.io/badge/Gmail-6129D0?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/"><img src="https://img.shields.io/badge/LinkedIn-6129D0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/sousa_ns67/"><img src="https://img.shields.io/badge/Instagram-6129D0?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:sabrinenagila05@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C1AD7?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/"><img src="https://img.shields.io/badge/LinkedIn-7C1AD7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/sousa_ns67/"><img src="https://img.shields.io/badge/Instagram-7C1AD7?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 🐧 **Operational Systems**
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FED15A?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-FF9D26?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-FF7B13?style=for-the-badge&logo=debian&logoColor=white">
 </p>
 
 **Programming Scripting**
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-6129D0?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-C71E96?style=for-the-badge&logo=powershell&logoColor=white">
 </p>
 
 <br clear="right">
@@ -30,7 +30,7 @@
 🗄️ **Databases**
 <p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-EA4324?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebird-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge">
@@ -38,7 +38,7 @@
 
 **Network & Infrastructure**
 <p>
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MikroTik-0E7B18?style=for-the-badge">
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white">
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
   <img src="https://img.shields.io/badge/Firewall-CC0000?style=for-the-badge">
