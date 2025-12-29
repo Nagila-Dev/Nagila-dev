@@ -57,3 +57,5 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=6129D0&reversal=false&fontSize=20&fontAlign=50&fontColor=FFFFFF&fontAlignY=26&section=footer">
