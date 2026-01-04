@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Pipelines CI/CD-E57000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-844FBA?style=for-the-badge&logo=Cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/AZURE-D40000?style=for-the-badge&logo=azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-2088FF?style=for-the-badge&logo=Prometheus&logoColor=white">
 </p>
 
 **Workstation Tools**
