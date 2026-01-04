@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6129D0&text=Olá,%20eu%20sou%20a%20Nágila%20Sabrine!&reversal=false&fontSize=20&fontAlign=19&fontColor=FFFFFF&fontAlignY=26" >
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6129D0&text=Olá,%20eu%20sou%20a%20Nágila%20Sabrine!&reversal=false&fontSize=20&fontAlign=19&fontColor=FFFFFF&fontAlignY=26">
+<a href="mailto:sabrinenagila05@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C1AD7?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/"><img src="https://img.shields.io/badge/LinkedIn-7C1AD7?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="https://instagram.com/sousa_ns67/"><img src="https://img.shields.io/badge/Instagram-7C1AD7?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <img src="./assets/pinguim.png" width="400" align="right">
-
-<a href="mailto:sabrinenagila05@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C1AD7?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/"><img src="https://img.shields.io/badge/LinkedIn-7C1AD7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/sousa_ns67/"><img src="https://img.shields.io/badge/Instagram-7C1AD7?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 🐧 **Operational Systems**
 <p>
@@ -47,6 +46,10 @@
   <img src="https://img.shields.io/badge/Recursive_DNS-2E8B57?style=for-the-badge">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-0E7B18?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Pipelines CI/CD-E57000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-844FBA?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/AZURE-D40000?style=for-the-badge&logo=azure&logoColor=white">
 </p>
 
 **Workstation Tools**
