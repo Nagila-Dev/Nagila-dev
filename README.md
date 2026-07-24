@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6129D0&text=Olá,%20eu%20sou%20a%20Nágila%20Sabrine!&reversal=false&fontSize=20&fontAlign=19&fontColor=FFFFFF&fontAlignY=26">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6129D0&text=Oii,%20eu%20sou%20a%20Nágila%20Sabrine!&reversal=false&fontSize=20&fontAlign=19&fontColor=FFFFFF&fontAlignY=26">
 <a href="mailto:sabrinenagila05@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C1AD7?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/n%C3%A1gila-sabrine-bb2177180/"><img src="https://img.shields.io/badge/LinkedIn-7C1AD7?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="https://instagram.com/sousa_ns67/"><img src="https://img.shields.io/badge/Instagram-7C1AD7?style=for-the-badge&logo=instagram&logoColor=white"></a>
